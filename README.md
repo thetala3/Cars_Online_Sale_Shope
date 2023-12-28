@@ -1,4 +1,4 @@
-# CarseerAssignment
+# Cars Online Sale Shop
 Database : postgreSQL
 API UI : Swagger 
 .Net Core version: 6.0 
